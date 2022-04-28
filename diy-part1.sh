@@ -90,5 +90,7 @@ git clone https://github.com/fw876/helloworld.git package/helloworld
 # 网络
 
 #Turbo ACC 加速 lede包已有
+# aria2
+svn co https://github.com/kiddin9/openwrt-packages/trunk/aria2 package/luci-app-aria2
 
 ##############################################################################################
